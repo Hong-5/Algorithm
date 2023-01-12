@@ -1,7 +1,7 @@
 # Programmers
 <h4>Solve Algorithm Everyday</h4>
 
-Level 1 : 3 solve
+<strike>Level 1 : 3 solve</strike>
 <br>
 <br>
 Level 2 : 2 solve

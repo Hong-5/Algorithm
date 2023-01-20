@@ -4,7 +4,7 @@
 <strike>Level 1 : 3 solve (69/69)</strike>
 <br>
 <br>
-Level 2 : 2 solve (17/91)
+Level 2 : 2 solve (19/91)
 <br>
 <br>
 Level 3 : 1 solve
